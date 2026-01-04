@@ -23,7 +23,7 @@ A simple yet functional Command-Line Interface (CLI) application developed to ma
 
 ```text
 ├── password_manager.py   # Main application script
-├── passwords.txt         # Database file (Auto-created)
+├── passwordBook.txt.txt         # Database file (Auto-created)
 └── README.md             # Project documentation
 
 ```
