@@ -4,7 +4,6 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
-![Last Commit](https://img.shields.io/github/last-commit/nuwa22/python-cli-password-manager)
 
 **A simple yet powerful Command Line Interface (CLI) tool to securely manage your passwords locally.**
 
@@ -50,13 +49,17 @@ cd python-cli-password-manager
 # 3. Run the application
 python My-Password-Manager.py
 ```
+## 📂 Project Structure
+
+```text
 ├── My-Password-Manager.py          # Main application
 ├── passwordBook.txt                # Auto-created database file
 ├── README.md                       # Documentation
 └── requirements.txt                # (Future - dependencies)
+```
 
-👨‍💻 Author
+📸 Screenshots
+(මෙතනට ඔයාගේ program එකේ screenshots දාන්න)
+
+### 👨‍💻 Author
 Suresh Nuwan Tharaka
-Aspiring Data Scientist & Cybersecurity Enthusiast
-Undergraduate | Python | PyTorch | Scapy
-
